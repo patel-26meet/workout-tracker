@@ -102,13 +102,10 @@ If you'd like to contribute to this project:
 3. Make your changes and commit them.
 4. Push to your fork and create a pull request.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contact
 For any questions or suggestions, please reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: patel26meet@gmail.com
+- **GitHub**: [patel-26meet](https://github.com/patel-26meet)
 
 ---
 Thank you for checking out the Workout Tracker Application! Stay fit and keep improving!
